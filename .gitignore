@@ -1,0 +1,14 @@
+# Ignore virtual environments
+env/
+enviroment_3_8_2/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore node_modules (if using Node.js)
+node_modules/
